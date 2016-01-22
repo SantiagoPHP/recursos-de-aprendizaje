@@ -4,6 +4,6 @@ Lista de recursos de aprendizaje de PHP
 ## Español
 
 
-## Ingles
+## Inglés
 
 - [Gratis] https://www.codecademy.com/learn/php
